@@ -1,5 +1,5 @@
 // Custom Arsenal Preset
-GRLIB_arsenal_weapons = [
+GRLIB_arsenal_weapons = [test
 
 ];
 
